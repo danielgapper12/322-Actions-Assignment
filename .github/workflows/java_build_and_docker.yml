@@ -37,4 +37,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: danielgapper/322-Actions-Assignment:latest
+          tags: danielgapper/322-actions-assignment:latest
+
